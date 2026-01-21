@@ -1,5 +1,6 @@
 # Projet QA — E2E (Playwright) + BDD (Cucumber/Gherkin)
-
+## Fait par :
+Yanis BOUDIAF, Nolwenn NIZARD
 ## Site choisi
 - **Apple** : `https://www.apple.com`
 
